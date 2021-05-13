@@ -1,2 +1,2 @@
-# js-snippets
-Snippets of JS/TS code
+# snippets
+Useful snippets of code
